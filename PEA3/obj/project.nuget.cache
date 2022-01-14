@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LVpHzjvp5pNcZ2MeNb/TulNmSYoI/f7eb0UiTzH0p314rDiT5ORXBjWyXW5kB0xMaEYCBLE0JHBXQtU0Kx7sLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mateu\\source\\repos\\PEA3\\PEA3\\PEA3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateu\\.nuget\\packages\\optimizedpriorityqueue\\5.1.0\\optimizedpriorityqueue.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
